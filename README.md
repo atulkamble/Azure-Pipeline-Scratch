@@ -1,7 +1,4 @@
-# Azure-Pipeline-Scratch
-Got it, Atul! Here’s a clean, copy-pasteable documentation you can drop into a README.md or share with your students.
-
-# Azure DevOps Pipelines — Quickstart Docs
+# Azure DevOps Pipelines from Scratch — Quickstart Docs
 
 ## Prerequisites
 
@@ -328,5 +325,3 @@ stages:
   * Ensure correct PAT/permissions; for Azure Repos verify you’re using the correct remote URL and credentials.
 
 ---
-
-If you want, I can tailor the YAML to the exact folder structure of `pythonhelloworld` (entry point, tests, any packaging) and add a release stage to publish as an artifact or container.
